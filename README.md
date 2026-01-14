@@ -2,7 +2,7 @@
 This project implements a Predictive Maintenance system using a Random Forest Classifier to forecast machine failures. By applying physics-based feature engineering, the model achieves high reliability in identifying potential breakdowns before they occur.
 
 ## Key achievements:
-**Recall Optimisation:** Improved recall from  0.59 to **0.75**, ensuring that critical failures are caught by the model.
+**Recall Optimisation:** Improved recall from  **0.59** to **0.75**, ensuring that critical failures are caught by the model.
 **Balanced Performance:** The model achieved an **F1-Score of 0.84** which provides a robust mix of reliability and precision.
 **Feature Engineering:** **Power** and **Temperature Delta (dT)** were ranked as the top predictors for machine failure, which more closely follows the laws of mechanical thermodynamics.
 
